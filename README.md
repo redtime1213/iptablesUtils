@@ -14,7 +14,7 @@
 ## 用法
 
 ```shell
-wget -qO natcfg.sh https://raw.githubusercontent.com/arloor/iptablesUtils/master/natcfg.sh && bash natcfg.sh
+wget -qO natcfg.sh https://raw.githubusercontent.com/redtime1213/iptablesUtils/master/natcfg.sh && bash natcfg.sh
 ```
 
 输出如下：
